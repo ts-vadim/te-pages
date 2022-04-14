@@ -1,5 +1,5 @@
 ## Содержание:
-- :arrow_forward: **[Резюме](https://github.com/ts-vadim/te-pages)**
+- ▶️ **[Резюме](https://github.com/ts-vadim/te-pages)**
 - **[Описание Продукта](description.md)**
 - **[Анализ Рынка](unknown.md)**
 - **[Оценка Конкурентов](unknown.md)**
