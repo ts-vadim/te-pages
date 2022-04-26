@@ -1,10 +1,11 @@
 ## Содержание:
-- **[Резюме](https://github.com/ts-vadim/te-pages)**
-- ▶️ **[Описание Продукта](https://github.com/ts-vadim/te-pages/blob/main/description.md)**
-- **[Анализ Рынка](https://github.com/ts-vadim/te-pages/blob/main/unknown.md)**
-- **[Оценка Конкурентов](https://github.com/ts-vadim/te-pages/blob/main/unknown.md)**
-- **[Стратегия Маркетинга](https://github.com/ts-vadim/te-pages/blob/main/unknown.md)**
-- **[План Производства](https://github.com/ts-vadim/te-pages/blob/main/unknown.md)**
-- **[Организационный и Финансовый Планы](https://github.com/ts-vadim/te-pages/blob/main/unknown.md)**
+- ▶️ **[Резюме](README.md)**
+- **[Описание Продукта](description.md)**
+- **[Авторы](authors.md)**
+- **[Анализ Рынка](unknown.md)**
+- **[Оценка Конкурентов](unknown.md)**
+- **[Стратегия Маркетинга](unknown.md)**
+- **[План Производства](unknown.md)**
+- **[Организационный и Финансовый Планы](unknown.md)**
 
 # Описание
