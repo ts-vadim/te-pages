@@ -1,6 +1,7 @@
 ## Содержание:
 - ▶️ **[Резюме](https://github.com/ts-vadim/te-pages)**
 - **[Описание Продукта](description.md)**
+- **[Авторы](authors.md)**
 - **[Анализ Рынка](unknown.md)**
 - **[Оценка Конкурентов](unknown.md)**
 - **[Стратегия Маркетинга](unknown.md)**
