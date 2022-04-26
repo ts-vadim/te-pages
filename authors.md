@@ -1,5 +1,5 @@
 ## Содержание:
-- **[Резюме](https://github.com/ts-vadim/te-pages)**
+- **[Резюме](README.md)**
 - **[Описание Продукта](description.md)**
 - ▶️ **[Авторы](authors.md)**
 - **[Анализ Рынка](unknown.md)**
